@@ -1,1 +1,1 @@
-# customer-segmentation
+# Customer segmentation using unsupervised learning
